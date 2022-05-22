@@ -1,7 +1,7 @@
 ---
-type: posts
-title: Posts  TEST
-date: 2021-03-18
+type: Blogue laser
+title: Blogue laser
+date: 2022-02-18
 ---
 
-# Posts
+# Blogue laser
